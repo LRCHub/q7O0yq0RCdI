@@ -1,4 +1,4 @@
-# LGYankees – C-嬢 feat. TAKA from Clef
+# LGYankees – C-嬢 feat. TAKA from Clef（feat. TAKA from Clef）
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
