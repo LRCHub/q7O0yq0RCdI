@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "C-嬢 feat. TAKA from Clef",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-02-14T15:13:22.763266Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "C-嬢 feat.TAKA from Clef",
+      "artist": "LGYankees",
+      "has_synced": false,
+      "path": "select/pl_01_C-嬢_feat.TAKA_from_Clef_LGYankees.txt"
+    }
+  ]
+}
